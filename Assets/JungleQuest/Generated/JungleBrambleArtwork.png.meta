@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 270468ffe0729174ca0abe2c4444881b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3616696979857116992
+    second: JungleBrambleArtwork_0
+  - first:
+      213: -7403375599077828503
+    second: JungleBrambleArtwork_1
+  - first:
+      213: 1476749390609926607
+    second: JungleBrambleArtwork_2
+  - first:
+      213: 2594253838457630024
+    second: JungleBrambleArtwork_3
+  - first:
+      213: -3137473920680471654
+    second: JungleBrambleArtwork_4
+  - first:
+      213: -6655575883800130126
+    second: JungleBrambleArtwork_5
+  - first:
+      213: 7945199262616635772
+    second: JungleBrambleArtwork_6
+  - first:
+      213: 2618448964332024049
+    second: JungleBrambleArtwork_7
+  - first:
+      213: -4628757720730415764
+    second: JungleBrambleArtwork_8
+  - first:
+      213: 7388774601386382704
+    second: JungleBrambleArtwork_9
+  - first:
+      213: 456842414050521133
+    second: JungleBrambleArtwork_10
+  - first:
+      213: -5871799205225732633
+    second: JungleBrambleArtwork_11
+  - first:
+      213: 4606678473995046486
+    second: JungleBrambleArtwork_12
+  - first:
+      213: 2170384014118196992
+    second: JungleBrambleArtwork_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 112
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f8c98bdb6113230800000000000000
+      internalID: 3616696979857116992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 59
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968db2e0e1de14990800000000000000
+      internalID: -7403375599077828503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 61
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc944912fb77e7410800000000000000
+      internalID: 1476749390609926607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 30
+        width: 67
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84de5720f14a00420800000000000000
+      internalID: 2594253838457630024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 66
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93d9c997147574d0800000000000000
+      internalID: -3137473920680471654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 73
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdcf661ff4a2a3a0800000000000000
+      internalID: -6655575883800130126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 60
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79c5f542a4034e60800000000000000
+      internalID: 7945199262616635772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 60
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0ff7db579965420800000000000000
+      internalID: 2618448964332024049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 71
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d4480906953cfb0800000000000000
+      internalID: -4628757720730415764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 156
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07550114a533a8660800000000000000
+      internalID: 7388774601386382704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 73
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2030df41c7075600800000000000000
+      internalID: 456842414050521133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 66
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e56914abbd238ea0800000000000000
+      internalID: -5871799205225732633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_12
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 56
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ec9e43aa53eef30800000000000000
+      internalID: 4606678473995046486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBrambleArtwork_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 219
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00793bbf2c0ce1e10800000000000000
+      internalID: 2170384014118196992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JungleBrambleArtwork_0: 3616696979857116992
+      JungleBrambleArtwork_1: -7403375599077828503
+      JungleBrambleArtwork_10: 456842414050521133
+      JungleBrambleArtwork_11: -5871799205225732633
+      JungleBrambleArtwork_12: 4606678473995046486
+      JungleBrambleArtwork_13: 2170384014118196992
+      JungleBrambleArtwork_2: 1476749390609926607
+      JungleBrambleArtwork_3: 2594253838457630024
+      JungleBrambleArtwork_4: -3137473920680471654
+      JungleBrambleArtwork_5: -6655575883800130126
+      JungleBrambleArtwork_6: 7945199262616635772
+      JungleBrambleArtwork_7: 2618448964332024049
+      JungleBrambleArtwork_8: -4628757720730415764
+      JungleBrambleArtwork_9: 7388774601386382704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

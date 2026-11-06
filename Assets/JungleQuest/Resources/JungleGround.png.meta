@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: fca26eead6f24d743a05c5ae2e0016a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5576140155808393927
+    second: JungleGround_0
+  - first:
+      213: -6153764954544018557
+    second: JungleGround_1
+  - first:
+      213: -753837669542286899
+    second: JungleGround_2
+  - first:
+      213: -666569005091472031
+    second: JungleGround_3
+  - first:
+      213: 4729687217508841747
+    second: JungleGround_4
+  - first:
+      213: 3840859501344103156
+    second: JungleGround_5
+  - first:
+      213: 7507372304793924368
+    second: JungleGround_6
+  - first:
+      213: 1844390511462666817
+    second: JungleGround_7
+  - first:
+      213: -3420096199429743298
+    second: JungleGround_8
+  - first:
+      213: -4239730583624302481
+    second: JungleGround_9
+  - first:
+      213: -5126403531811006914
+    second: JungleGround_10
+  - first:
+      213: 249592491490360728
+    second: JungleGround_11
+  - first:
+      213: -2380731999531209476
+    second: JungleGround_12
+  - first:
+      213: 7942189427300085132
+    second: JungleGround_13
+  - first:
+      213: 679763510754059279
+    second: JungleGround_14
+  - first:
+      213: -9099706794125549105
+    second: JungleGround_15
+  - first:
+      213: -7827635633916195741
+    second: JungleGround_16
+  - first:
+      213: 8433294919447116065
+    second: JungleGround_17
+  - first:
+      213: 6764561811230529860
+    second: JungleGround_18
+  - first:
+      213: -1005199752825542314
+    second: JungleGround_19
+  - first:
+      213: -7603437848859454880
+    second: JungleGround_20
+  - first:
+      213: 3529841100505320527
+    second: JungleGround_21
+  - first:
+      213: 7591430426005325361
+    second: JungleGround_22
+  - first:
+      213: 3217443139865919601
+    second: JungleGround_23
+  - first:
+      213: -9175943362552327714
+    second: JungleGround_24
+  - first:
+      213: 8865815463692978710
+    second: JungleGround_25
+  - first:
+      213: 6940023903454532445
+    second: JungleGround_26
+  - first:
+      213: 4991309403213426824
+    second: JungleGround_27
+  - first:
+      213: -4284726351505773481
+    second: JungleGround_28
+  - first:
+      213: -2940646166074981775
+    second: JungleGround_29
+  - first:
+      213: -3947162545059831391
+    second: JungleGround_30
+  - first:
+      213: -5847172392158547790
+    second: JungleGround_31
+  - first:
+      213: 782747986953607719
+    second: JungleGround_32
+  - first:
+      213: -626350070822822821
+    second: JungleGround_33
+  - first:
+      213: -6226472206343282709
+    second: JungleGround_34
+  - first:
+      213: -160893720904792559
+    second: JungleGround_35
+  - first:
+      213: -7179884360090582412
+    second: JungleGround_36
+  - first:
+      213: 2783427102509701082
+    second: JungleGround_37
+  - first:
+      213: -6553955536890578170
+    second: JungleGround_38
+  - first:
+      213: -2978288205510641872
+    second: JungleGround_39
+  - first:
+      213: -7378142835148154691
+    second: JungleGround_40
+  - first:
+      213: 480141785852965421
+    second: JungleGround_41
+  - first:
+      213: -4740064481198354510
+    second: JungleGround_42
+  - first:
+      213: -6622784258441688025
+    second: JungleGround_43
+  - first:
+      213: 655478237049604633
+    second: JungleGround_44
+  - first:
+      213: -664533069368766871
+    second: JungleGround_45
+  - first:
+      213: -4281646604238497209
+    second: JungleGround_46
+  - first:
+      213: -2493162749379468238
+    second: JungleGround_47
+  - first:
+      213: -8266238445836816167
+    second: JungleGround_48
+  - first:
+      213: 3441910953234615402
+    second: JungleGround_49
+  - first:
+      213: -4860209717867242605
+    second: JungleGround_50
+  - first:
+      213: -5354933061000143197
+    second: JungleGround_51
+  - first:
+      213: 6831147854119272644
+    second: JungleGround_52
+  - first:
+      213: 7773798532078810986
+    second: JungleGround_53
+  - first:
+      213: -7802178935259375242
+    second: JungleGround_54
+  - first:
+      213: -8050112146792692484
+    second: JungleGround_55
+  - first:
+      213: -9022784186684505821
+    second: JungleGround_56
+  - first:
+      213: -1574647630685461588
+    second: JungleGround_57
+  - first:
+      213: -6557227340274776539
+    second: JungleGround_58
+  - first:
+      213: 8027705106217218787
+    second: JungleGround_59
+  - first:
+      213: 1048386858353433458
+    second: JungleGround_60
+  - first:
+      213: -2213938840135614408
+    second: JungleGround_61
+  - first:
+      213: 4960015675345628441
+    second: JungleGround_62
+  - first:
+      213: -3545850711317926590
+    second: JungleGround_63
+  - first:
+      213: 3883773817379114851
+    second: JungleGround_64
+  - first:
+      213: -8263815493674623907
+    second: JungleGround_65
+  - first:
+      213: 512154417725638663
+    second: JungleGround_66
+  - first:
+      213: 5971864531289777818
+    second: JungleGround_67
+  - first:
+      213: -2833513490713815316
+    second: JungleGround_68
+  - first:
+      213: 3817820831512944990
+    second: JungleGround_69
+  - first:
+      213: -1430501172977754141
+    second: JungleGround_70
+  - first:
+      213: -8343642838895769676
+    second: JungleGround_71
+  - first:
+      213: -7802706282975561168
+    second: JungleGround_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JungleGround_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935df3b62129d92b0800000000000000
+      internalID: -5576140155808393927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 707
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38be72db06f699aa0800000000000000
+      internalID: -6153764954544018557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 708
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9af9032a4d985f0800000000000000
+      internalID: -753837669542286899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 711
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dbc31850fdfb6f0800000000000000
+      internalID: -666569005091472031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 709
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319f152277933a140800000000000000
+      internalID: 4729687217508841747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 711
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa9cc1ed597d4530800000000000000
+      internalID: 3840859501344103156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 687
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013f8dfd55b8f2860800000000000000
+      internalID: 7507372304793924368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 651
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14255dee567989910800000000000000
+      internalID: 1844390511462666817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_8
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 708
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d935780a06980d0800000000000000
+      internalID: -3420096199429743298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_9
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 707
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60c6bb4f737925c0800000000000000
+      internalID: -4239730583624302481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_10
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 606
+        width: 180
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36d81f062b5bd8b0800000000000000
+      internalID: -5126403531811006914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_11
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 709
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d33e17c0bb67300800000000000000
+      internalID: 249592491490360728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_12
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 580
+        width: 231
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc698e2cd0f5fed0800000000000000
+      internalID: -2380731999531209476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_13
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 709
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8da5116433583e60800000000000000
+      internalID: 7942189427300085132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_14
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 711
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04a4cdbf410f6900800000000000000
+      internalID: 679763510754059279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_15
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 707
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc120ff02e857b180800000000000000
+      internalID: -9099706794125549105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_16
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 708
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c4c311dd6ae5390800000000000000
+      internalID: -7827635633916195741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_17
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 669
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12970c73c05190570800000000000000
+      internalID: 8433294919447116065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_18
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 659
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449919b802d80ed50800000000000000
+      internalID: 6764561811230529860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_19
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 693
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659e58c8620dc02f0800000000000000
+      internalID: -1005199752825542314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 689
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d8faaf892b7690800000000000000
+      internalID: -7603437848859454880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 691
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c813d67c38cf030800000000000000
+      internalID: 3529841100505320527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 689
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136c32750cd2a5960800000000000000
+      internalID: 7591430426005325361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_23
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 695
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170c9bc2d77a6ac20800000000000000
+      internalID: 3217443139865919601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_24
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 688
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed117f3c02088a080800000000000000
+      internalID: -9175943362552327714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_25
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 685
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ac59de034b90b70800000000000000
+      internalID: 8865815463692978710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_26
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 691
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53902a68faef4060800000000000000
+      internalID: 6940023903454532445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_27
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 689
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8807a960571b44540800000000000000
+      internalID: 4991309403213426824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_28
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 699
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c2eb2b5189984c0800000000000000
+      internalID: -4284726351505773481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_29
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 693
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1728cf464e9b037d0800000000000000
+      internalID: -2940646166074981775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 73
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a16bf6049cd839c0800000000000000
+      internalID: -3947162545059831391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_31
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 73
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b03be060bbaadea0800000000000000
+      internalID: -5847172392158547790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_32
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 71
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a950f9521ecda00800000000000000
+      internalID: 782747986953607719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_33
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 67
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c909bdde1ce47f0800000000000000
+      internalID: -626350070822822821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_34
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befd01184802799a0800000000000000
+      internalID: -6226472206343282709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_35
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 47
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11601e6630464cdf0800000000000000
+      internalID: -160893720904792559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_36
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 29
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4720b64173deb5c90800000000000000
+      internalID: -7179884360090582412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_37
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 53
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad71947d338b0a620800000000000000
+      internalID: 2783427102509701082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_38
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bbeedd92cab05a0800000000000000
+      internalID: -6553955536890578170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_39
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 59
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0377dcf18aefaa6d0800000000000000
+      internalID: -2978288205510641872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_40
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 53
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db896e8be229b9990800000000000000
+      internalID: -7378142835148154691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 36
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22769b096ec9a600800000000000000
+      internalID: 480141785852965421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 47
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfc9b1e778e73eb0800000000000000
+      internalID: -4740064481198354510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_43
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 49
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cc8835ec42714a0800000000000000
+      internalID: -6622784258441688025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_44
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 51
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a4755dbf9b81900800000000000000
+      internalID: 655478237049604633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_45
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e46cab1ba17c6f0800000000000000
+      internalID: -664533069368766871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_46
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 41
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a5b9c39198494c0800000000000000
+      internalID: -4281646604238497209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_47
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234200450b1866dd0800000000000000
+      internalID: -2493162749379468238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_48
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 41
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0383f0eeb684d80800000000000000
+      internalID: -8266238445836816167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_49
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c4314a6cf14cf20800000000000000
+      internalID: 3441910953234615402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b1f9813011d8cb0800000000000000
+      internalID: -4860209717867242605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_51
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 35
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae571fa0c47fa5b0800000000000000
+      internalID: -5354933061000143197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_52
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 41
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c083f4c7cc1dce50800000000000000
+      internalID: 6831147854119272644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_53
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b20cd39412eb60800000000000000
+      internalID: 7773798532078810986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_54
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 33
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67954d9989719b390800000000000000
+      internalID: -7802178935259375242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_55
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf44d5067a1484090800000000000000
+      internalID: -8050112146792692484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_56
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32188a34691a8c280800000000000000
+      internalID: -9022784186684505821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_57
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 27
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3259e925ab52ae0800000000000000
+      internalID: -1574647630685461588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 23
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5264177c97c0005a0800000000000000
+      internalID: -6557227340274776539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_59
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 33
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2baa1f243286f60800000000000000
+      internalID: 8027705106217218787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_60
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 23
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b18570b4e9c8e00800000000000000
+      internalID: 1048386858353433458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_61
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830c647da528641e0800000000000000
+      internalID: -2213938840135614408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_62
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 33
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d68593af385d440800000000000000
+      internalID: 4960015675345628441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_63
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 23
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d2455909b9acec0800000000000000
+      internalID: -3545850711317926590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_64
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f48d4b5bfe5e530800000000000000
+      internalID: 3883773817379114851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_65
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 23
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c97229797015d80800000000000000
+      internalID: -8263815493674623907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_66
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7080faabab98b1700800000000000000
+      internalID: 512154417725638663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_67
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 22
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a962842a62350e250800000000000000
+      internalID: 5971864531289777818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_68
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6d9b72e765da8d0800000000000000
+      internalID: -2833513490713815316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 23
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e516a6e81df9bf430800000000000000
+      internalID: 3817820831512944990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_70
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef91e523c6d52ce0800000000000000
+      internalID: -1430501172977754141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_71
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 6
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7c2e66b0d653c80800000000000000
+      internalID: -8343642838895769676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleGround_72
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 11
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a7884e9f737b390800000000000000
+      internalID: -7802706282975561168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JungleGround_0: -5576140155808393927
+      JungleGround_1: -6153764954544018557
+      JungleGround_10: -5126403531811006914
+      JungleGround_11: 249592491490360728
+      JungleGround_12: -2380731999531209476
+      JungleGround_13: 7942189427300085132
+      JungleGround_14: 679763510754059279
+      JungleGround_15: -9099706794125549105
+      JungleGround_16: -7827635633916195741
+      JungleGround_17: 8433294919447116065
+      JungleGround_18: 6764561811230529860
+      JungleGround_19: -1005199752825542314
+      JungleGround_2: -753837669542286899
+      JungleGround_20: -7603437848859454880
+      JungleGround_21: 3529841100505320527
+      JungleGround_22: 7591430426005325361
+      JungleGround_23: 3217443139865919601
+      JungleGround_24: -9175943362552327714
+      JungleGround_25: 8865815463692978710
+      JungleGround_26: 6940023903454532445
+      JungleGround_27: 4991309403213426824
+      JungleGround_28: -4284726351505773481
+      JungleGround_29: -2940646166074981775
+      JungleGround_3: -666569005091472031
+      JungleGround_30: -3947162545059831391
+      JungleGround_31: -5847172392158547790
+      JungleGround_32: 782747986953607719
+      JungleGround_33: -626350070822822821
+      JungleGround_34: -6226472206343282709
+      JungleGround_35: -160893720904792559
+      JungleGround_36: -7179884360090582412
+      JungleGround_37: 2783427102509701082
+      JungleGround_38: -6553955536890578170
+      JungleGround_39: -2978288205510641872
+      JungleGround_4: 4729687217508841747
+      JungleGround_40: -7378142835148154691
+      JungleGround_41: 480141785852965421
+      JungleGround_42: -4740064481198354510
+      JungleGround_43: -6622784258441688025
+      JungleGround_44: 655478237049604633
+      JungleGround_45: -664533069368766871
+      JungleGround_46: -4281646604238497209
+      JungleGround_47: -2493162749379468238
+      JungleGround_48: -8266238445836816167
+      JungleGround_49: 3441910953234615402
+      JungleGround_5: 3840859501344103156
+      JungleGround_50: -4860209717867242605
+      JungleGround_51: -5354933061000143197
+      JungleGround_52: 6831147854119272644
+      JungleGround_53: 7773798532078810986
+      JungleGround_54: -7802178935259375242
+      JungleGround_55: -8050112146792692484
+      JungleGround_56: -9022784186684505821
+      JungleGround_57: -1574647630685461588
+      JungleGround_58: -6557227340274776539
+      JungleGround_59: 8027705106217218787
+      JungleGround_6: 7507372304793924368
+      JungleGround_60: 1048386858353433458
+      JungleGround_61: -2213938840135614408
+      JungleGround_62: 4960015675345628441
+      JungleGround_63: -3545850711317926590
+      JungleGround_64: 3883773817379114851
+      JungleGround_65: -8263815493674623907
+      JungleGround_66: 512154417725638663
+      JungleGround_67: 5971864531289777818
+      JungleGround_68: -2833513490713815316
+      JungleGround_69: 3817820831512944990
+      JungleGround_7: 1844390511462666817
+      JungleGround_70: -1430501172977754141
+      JungleGround_71: -8343642838895769676
+      JungleGround_72: -7802706282975561168
+      JungleGround_8: -3420096199429743298
+      JungleGround_9: -4239730583624302481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
